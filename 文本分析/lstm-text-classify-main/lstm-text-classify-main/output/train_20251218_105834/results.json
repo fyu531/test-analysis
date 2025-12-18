@@ -1,0 +1,10 @@
+{
+  "best_accuracy": 33.333333333333336,
+  "precision": 11.11111111111111,
+  "recall": 33.33333333333333,
+  "f1": 16.666666666666664,
+  "num_classes": 2,
+  "vocab_size": 57,
+  "training_samples": 12,
+  "test_samples": 3
+}
